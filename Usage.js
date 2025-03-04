@@ -1,0 +1,16 @@
+<Section
+  facebook="facebook-4-1-3.svg"
+  href="https://api.whatsapp.com/message/TQISJLKRE7KMP1"
+  href1="https://www.facebook.com/IrgoonHamorim"
+  href2="https://www.facebook.com/tmuraigm"
+  img="facebook-4-1-4.svg"
+  instagram="instagram-2-1-3.svg"
+  instagram1="instagram-2-1-4.svg"
+  line="line-14-6.svg"
+  line1="line-14-7.svg"
+  line2="line-14-8.svg"
+  line3="line-14-9.svg"
+  line4="line-14-10.svg"
+  line5="line-14-11.svg"
+  phone="phone-2-1-2.svg"
+/>;
